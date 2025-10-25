@@ -172,39 +172,36 @@
 ![File Uploads](https://img.shields.io/badge/File%20Uploads-5C2D91?style=for-the-badge&logo=files&logoColor=white)
 ![API Rate Limiting](https://img.shields.io/badge/API%20Rate%20Limiting-FF0000?style=for-the-badge&logo=apachespark&logoColor=white)
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-### 🚀 Software Engineer – Vultara, Inc
-**📍 Sep 2025 – Oct 2025 | Cairo, Egypt**
-- 🔧 Developed scalable web applications using Angular, Angular Material, TypeScript, and Node.js
-- 🛡️ Specialized in web-based cybersecurity risk management tools
-- ⚡ Implemented secure coding practices and performance optimization
+<div align="center">
 
-### 👨‍🏫 Teaching Assistant – Benha National University
-**📍 Sep 2025 – Present | Obour, Qalyubia**
-- 🎯 Assisted students in practical labs and explained theoretical concepts
-- 🔬 Guided computer engineering students through complex topics
-- 💡 Facilitated hands-on learning and problem-solving sessions
+### 🚀 **From Code to Classroom: My Tech Odyssey**
 
-### 🏫 External Instructor – ITI
-**📍 Jul 2025 – Present | Cairo, Egypt**
-- 📚 Delivered full-stack training in modern frontend and backend technologies
-- 🎓 Mentored students in OOP, algorithms, design patterns, RESTful APIs, authentication, and databases
-- 🚀 Prepared students for industry challenges with real-world projects
+</div>
 
-### ⚡ React & Next.js Developer – SSD Academy
-**📍 Jul 2025 – Sep 2025 | Remote**
-- 💻 Developed responsive and scalable web applications
-- 🎨 Built modern user interfaces with optimal performance
-- 🔧 Implemented best practices in frontend architecture
+<br>
 
-### 📖 IT Instructor – Nass Academy
-**📍 Aug 2024 – Oct 2024 | Nasr City, Egypt**
-- 🌐 Taught frontend development (HTML, CSS, JS, React) with hands-on projects
-- 🎯 Empowered students with practical web development skills
-- ✨ Created engaging learning experiences with real-world applications
+**💻 Software Engineer** – *Vultara, Inc*  
+`📍 Sep 2025 – present | Cairo`  
+> Built secure web apps with Angular & Node.js | Cybersecurity focus
 
----
+**👨‍🏫 Tech Educator** – *Multiple Institutions*  
+`📍 2024 – 2025 | Egypt`  
+> Mentoring next-gen developers | Full-stack training | Hands-on learning
+
+**⚡ Frontend Specialist** – *SSD Academy*  
+`📍 Jul 2025 – Sep 2025 | Remote`  
+> Crafted responsive UIs with React & Next.js | Performance optimization
+
+<br>
+
+
+### 🌟 **Building • Teaching • Innovating**
+
+*Transforming ideas into impact through code and education*
+
+
 
 ### 🎯 Career Progression
 

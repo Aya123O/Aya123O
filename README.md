@@ -1,18 +1,105 @@
-# Hi 👋, I'm Aya Osama
+<div align="center">
 
-**Software Developer | Full-Stack Engineer**
+<!-- Dynamic Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Aya+Osama!;Full-Stack+Developer;MERN+Stack+Expert;Problem+Solver;Tech+Enthusiast" />
 
-🎓 Computer Engineering Graduate | ITI Open Source Program  
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Aya123O&label=Profile%20Views&color=6C63FF&style=flat" alt="visitor counter" />
 
-📍 Cairo, Egypt  
-📧 [ayaosama123572@gmail.com](mailto:ayaosama123572@gmail.com)  
-📱 01067587213  
-🔗 [LinkedIn](https://linkedin.com/in/ayaosamasayed)  
-💻 [GitHub](https://github.com/Aya123O)
+<!-- Wave Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+ 🌟 About Me
 
----
-## 🛠 Technical Skills
-## 🛠 Technical Skills
+  
+![About Me Banner](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Digital+Artisan+🎨;Code+Storyteller+📖;Full-Stack+Visionary+🚀;Tech+Innovator+💡)
+
+</div>
+
+<br>
+  
+### 🎯 *Architecting Digital Dreams, One Line at a Time* ✨
+
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 My Creative Side</h3>
+      <p><em>Where art meets algorithm</em></p>
+      <br>
+      • Composing digital symphonies<br>
+      • Painting with React & Angular<br>
+      • Sculpting user experiences<br>
+      • Weaving responsive designs
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡ My Technical Side</h3>
+      <p><em>Where logic meets innovation</em></p>
+      <br>
+      • Engineering robust systems<br>
+      • Architecting scalable solutions<br>
+      • Fortifying digital security<br>
+      • Optimizing performance
+    </td>
+  </tr>
+</table>
+
+<br>
+
+**🎭 The Dual Nature of a Developer:**
+💫 Creative Visionary × Technical Architect = Digital Innovator
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>🛠️ My Toolkit</strong><br>
+      <code>React</code> • <code>Angular</code><br>
+      <code>Node.js</code> • <code>MongoDB</code><br>
+      <code>TypeScript</code> • <code>Python</code>
+    </td>
+    <td align="center">
+      <strong>🚀 My Mission</strong><br>
+      Build • Secure • Scale<br>
+      Innovate • Mentor • Inspire<br>
+      Create • Deploy • Evolve
+    </td>
+    <td align="center">
+      <strong>⭐ My Philosophy</strong><br>
+      Code with purpose<br>
+      Build with passion<br>
+      Deploy with precision
+    </td>
+  </tr>
+</table>
+
+<br>
+  
+<div >
+
+### 🌟 **My Evolution Path**
+🎯 NOW → Crafting digital excellence <br>
+🛡️ NEXT → Engineering secure foundations <br>
+🌱 GROW → Nurturing tech innovators <br>
+⚡ FUTURE → Pioneering cloud frontiers <br>
+
+<br>
+
+## ✨ **Developer's Manifesto**
+
+### 🚀 *"Architecting dreams in digital space"* 🌌
+### ☕ *Fueling innovation, one commit at a time* ⚡
+
+**🎯 Shaping tomorrow's digital world**  
+**💡 Through code that tells stories**
+
+</div>
+
+<!-- Tech Stack Section --><h2>🛠 Tech Stack</h2>
 
 ### 🧩 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -85,56 +172,71 @@
 ![File Uploads](https://img.shields.io/badge/File%20Uploads-5C2D91?style=for-the-badge&logo=files&logoColor=white)
 ![API Rate Limiting](https://img.shields.io/badge/API%20Rate%20Limiting-FF0000?style=for-the-badge&logo=apachespark&logoColor=white)
 
-
----
-
 ## 💼 Professional Experience
 
-**Software Engineer – Vultara, Inc**  
-*Sep 2025 – Oct 2025 | Cairo, Egypt*  
-- Developed scalable web applications using Angular, Angular Material, TypeScript, and Node.js  
-- Specialized in web-based cybersecurity risk management tools  
+### 🚀 Software Engineer – Vultara, Inc
+**📍 Sep 2025 – Oct 2025 | Cairo, Egypt**
+- 🔧 Developed scalable web applications using Angular, Angular Material, TypeScript, and Node.js
+- 🛡️ Specialized in web-based cybersecurity risk management tools
+- ⚡ Implemented secure coding practices and performance optimization
 
-**Teaching Assistant – Benha National University**  
-*Sep 2025 – Present | Obour, Qalyubia*  
-- Assisted students in practical labs and explained theoretical concepts  
+### 👨‍🏫 Teaching Assistant – Benha National University
+**📍 Sep 2025 – Present | Obour, Qalyubia**
+- 🎯 Assisted students in practical labs and explained theoretical concepts
+- 🔬 Guided computer engineering students through complex topics
+- 💡 Facilitated hands-on learning and problem-solving sessions
 
-**External Instructor – ITI**  
-*Jul 2025 – Present | Cairo, Egypt*  
-- Delivered full-stack training in modern frontend and backend technologies  
-- Mentored students in OOP, algorithms, design patterns, RESTful APIs, authentication, and databases  
+### 🏫 External Instructor – ITI
+**📍 Jul 2025 – Present | Cairo, Egypt**
+- 📚 Delivered full-stack training in modern frontend and backend technologies
+- 🎓 Mentored students in OOP, algorithms, design patterns, RESTful APIs, authentication, and databases
+- 🚀 Prepared students for industry challenges with real-world projects
 
-**React & Next.js Developer – SSD Academy**  
-*Jul 2025 – Sep 2025 | Remote*  
-- Developed responsive and scalable web applications  
+### ⚡ React & Next.js Developer – SSD Academy
+**📍 Jul 2025 – Sep 2025 | Remote**
+- 💻 Developed responsive and scalable web applications
+- 🎨 Built modern user interfaces with optimal performance
+- 🔧 Implemented best practices in frontend architecture
 
-**IT Instructor – Nass Academy**  
-*Aug 2024 – Oct 2024 | Nasr City, Egypt*  
-- Taught frontend development (HTML, CSS, JS, React) with hands-on projects  
-
----
-
-
-## 🚀 Projects
-
-**Freelance Full-Stack Web Apps** – Built responsive apps with React, Vue, Angular, Node.js, PHP, and Python  
-
-**Snap to Shape** – 2D to 3D AI web tool built with Angular, Tailwind, DaisyUI, Node.js, MongoDB  
-
-**LitVerse Online Bookstore** – Full-stack e-commerce platform with Angular & Node.js, JWT auth, REST APIs  
-
-**Full-Stack Blog App** – React + Django REST Framework, JWT auth, CRUD, infinite scrolling  
-
-**WordNest Blog Platform** – Next.js, Prisma, PostgreSQL, Google OAuth, CRUD & responsive UI  
-
-**Angular E-Commerce App** – Angular, TypeScript, RxJS, dynamic product listings & shopping cart  
-
-**Library Management System** – Java console app with OOP-based book inventory management  
-
-**JarDump Cafeteria System** – PHP, MySQL, Bootstrap, Alpine.js with dashboards and reporting  
+### 📖 IT Instructor – Nass Academy
+**📍 Aug 2024 – Oct 2024 | Nasr City, Egypt**
+- 🌐 Taught frontend development (HTML, CSS, JS, React) with hands-on projects
+- 🎯 Empowered students with practical web development skills
+- ✨ Created engaging learning experiences with real-world applications
 
 ---
 
-## 📈 GitHub Stats
-![Aya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aya123O&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya123O&layout=compact&theme=tokyonight)
+### 🎯 Career Progression
+
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aya123O&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aya123O&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aya123O&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- Connect With Me -->
+<h2 align="center">🌐 Connect With Me 🌐</h2>
+<div align="center"> 
+  <a href="mailto:ayaosama123572@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ayaosamasayed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aya123O" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="tel:+201067587213">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+<br/>

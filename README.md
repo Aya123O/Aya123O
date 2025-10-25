@@ -12,7 +12,7 @@
 
 ---
 🛠 Technical Skills
-Languages
+Programming Languages
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
@@ -32,13 +32,13 @@ https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&log
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 
 APIs
-https://img.shields.io/badge/RESTful_APIs-FF6B6B?style=for-the-badge&logo=json&logoColor=white
+https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=json&logoColor=white
 https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
 
 Authentication
 https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white
-https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white
-https://img.shields.io/badge/Session_based-6C757D?style=for-the-badge&logo=securityscorecard&logoColor=white
+https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white
+https://img.shields.io/badge/Session-6C757D?style=for-the-badge&logo=securityscorecard&logoColor=white
 
 Databases
 https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
@@ -63,7 +63,7 @@ https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoC
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
-https://img.shields.io/badge/Linux_CLI-000000?style=for-the-badge&logo=linux&logoColor=white
+https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white
 
 Architecture & Practices
 https://img.shields.io/badge/MVC-6A11CB?style=for-the-badge&logo=model&logoColor=white
@@ -78,6 +78,8 @@ https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoC
 https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
 https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white
+
+
 ---
 
 ## 💼 Professional Experience

@@ -11,7 +11,6 @@
 💻 [GitHub](https://github.com/Aya123O)
 
 ---
-
 🛠 Technical Skills
 Languages
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -79,9 +78,6 @@ https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoC
 https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
 https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white
-
-
-
 ---
 
 ## 💼 Professional Experience

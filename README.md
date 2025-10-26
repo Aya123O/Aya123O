@@ -124,7 +124,7 @@
 </div>
 
 </div>
-<div align="center">
+<div>
 
 <!-- Tech Stack Section --><h2>🛠 Tech Stack</h2>
 

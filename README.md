@@ -21,7 +21,7 @@
 </svg>
 <br>
 </div>
-<div>
+<div align="center">
 
 ## ⚡ **MY ROLES**
 
@@ -39,7 +39,7 @@
 
 
   
-<div >
+<div align="center">
 
 ## 🎯 **Software Engineering & Technical Leadership**
 
@@ -124,6 +124,7 @@
 </div>
 
 </div>
+<div align="center">
 
 <!-- Tech Stack Section --><h2>🛠 Tech Stack</h2>
 
@@ -200,7 +201,7 @@
 
 ## 💼 Professional Journey
 
-<div align="center">
+<div>
 
 ### 🚀 **From Code to Classroom: My Tech Odyssey**
 
